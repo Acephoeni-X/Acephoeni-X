@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Rishi.👋
+### Currently 2nd Year of College, here just to increase my skills. 
 
 <!--
 **Rishi-Sharma2002/Rishi-Sharma2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
