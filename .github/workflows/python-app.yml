@@ -18,4 +18,6 @@ jobs:
     - uses: actions/checkout@master
       name: settingup
     - name: Set up Python 3.9
-      run: python --version
+      run:|
+        cd ${GITHUB_WORKSPACE}/src/ 
+        python main.py
