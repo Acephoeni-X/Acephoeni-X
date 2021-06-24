@@ -7,7 +7,6 @@
       </style>
 
       <!-- your HTML -->
-      <h1>This is a policy</h1>
     </div>
   </foreignObject>
 	<foreignObject width="100%" height="100%">
@@ -60,8 +59,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1>Hey this is Rishi</h1>
 			</div>
 		</div>
 	</foreignObject>
