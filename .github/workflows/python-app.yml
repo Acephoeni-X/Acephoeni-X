@@ -19,5 +19,5 @@ jobs:
       name: settingup
     - name: Set up Python 3.9
       run: |
-        cd ${GITHUB_WORKSPACE}/src/ 
+        cd ${GITHUB_WORKSPACE} 
         python main.py
