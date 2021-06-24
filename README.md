@@ -1,3 +1,3 @@
- <svg height="300" width="200">
+Hello this is the kingth="200">
   <text fill="red">I love SVG!</text>
 </svg> 
