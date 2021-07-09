@@ -171,7 +171,7 @@
 		}
 		async function main(){
 			let languages = await getLanguages();
-			document.getElementsByClassName("lang")[1].innerHTML = "Python : " +languages['Python'];
+			document.getElementsByClassName("lang")[1].innerHTML = "Python : " +'13';
 			document.getElementsByClassName("lang")[3].innerHTML = "C++	: " + languages['C++'];
 			document.getElementsByClassName("lang")[2].innerHTML = "JavaScript : " + languages['JavaScript'];
 			document.getElementsByClassName("lang")[0].innerHTML = "C (language): " + languages['C'];

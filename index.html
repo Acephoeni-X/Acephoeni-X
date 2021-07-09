@@ -1,0 +1,39 @@
+<style>
+  body{
+    padding:50px;
+    font-size: 24px;
+  }
+  a{color:blue}
+  a:hover{color:green;}
+  .link-red:hover{color:red;}
+
+</style>
+<body>
+  <a href="" class="link">Link</a>
+  <button>CLick</button>
+</body>
+
+<script>
+  function injectStyle(magic){
+    
+    var d = document.querySelector('.link');
+    d.classList.add('link-red')
+
+
+      // var d = document.getElementsByClassName('link')[0];
+      // console.log(d)
+      // d.style.magic;
+      // let a = magic.getContent();
+      // console.log(a);
+  }
+  // console.log('color: red;')
+  // injectStyle();
+
+  // $("button").on("click", function(){
+  //   injectStyle('a:hover {color: red;}');
+  // });
+
+  var div = document.querySelector('button');
+  div.addEventListener("click", injectStyle('a:hover {color: red;}'))
+
+</script>
