@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
