@@ -32,3 +32,8 @@
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Sharma2002&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+### Contact ME :
+<a href="https://www.linkedin.com/in/-rishi-sharma/"><img src="icons/linkedin" alt="Linkedin" width="50" height="50"></a>
+<a href="https://github.com/Rishi-Sharma2002"><img src="icons/github.png" alt="GitHub" width="50" height="50"></a>
+<a href="https://twitter.com/RishiSharma2002"><img src="icons/twitter.png" alt="Twitter" width="50" height="50"></a>
+
