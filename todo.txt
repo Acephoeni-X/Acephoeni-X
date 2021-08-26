@@ -1,5 +1,0 @@
- - Use svg to render HTML 
- - Use svg to add styles <foreignobject>
- - adding svg to README.md 
- - Adding workflow
-
