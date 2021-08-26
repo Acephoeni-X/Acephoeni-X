@@ -6,7 +6,8 @@
 	<br>
 
 </div>
-### Languages Known: <br>
+
+### Languages Known: 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
@@ -21,7 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 
-### STATS:
+### GITHUB STATS:
 <br>
 <img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sharma2002&&show_icons=true&theme=dark" width="50%" />
 
