@@ -146,10 +146,10 @@
 					<div style="margin-left:30px; width: 35%; height: 100%;">
 						<h5 style="text-align: center">Contact me: </h5>
 						<div style=" display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-							<img src="icons/gmail.png" style="height:50px; width: 50px;cursor: pointer;"></img>
-							<img src="icons/linkedin.png" style="height:50px; width: 50px;cursor: pointer;"></img>
-							<img src="icons/twitter.png" style="height:50px; width: 50px;cursor: pointer;"></img>
-							<img src="icons/discord.png" style="height:50px; width: 50px;cursor: pointer;"></img>
+							<a href=""><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/gmail.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href=""><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/linkedin.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href=""><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/twitter.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href="https://discord.gg/7BJNJFeW"><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/discord.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
 						</div>
 					</div>
 				</div>
