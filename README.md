@@ -24,9 +24,9 @@
 
 ### GITHUB STATS:
 <br>
-<img align="left" alt="Anshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sharma2002&&show_icons=true&theme=dark" width="50%" />
+<img align="middle" alt="Rishi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sharma2002&&show_icons=true&theme=dark" width="50%" />
 
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sharma2002&layout=compact&theme=dark" width="50%"/>
+<img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sharma2002&layout=compact&theme=dark" width="50%"/>
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Sharma2002&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
