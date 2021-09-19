@@ -50,7 +50,7 @@
 						white-space: nowrap; /* Keeps the content on a single line */
 						<!-- margin: 0 auto; /* Gives that scrolling effect as the typing happens */ -->
 						margin-top:30px;
-						margin-left:50px;
+						margin-left:200px;
 						letter-spacing: .15em; /* Adjust as needed */
 						font-size:1.2rem;
 						animation:
@@ -61,7 +61,7 @@
 						/* The typing effect */
 						@keyframes typing {
 						from { width: 0 }
-						to { width: 80% }
+						to { width: 70% }
 						}
 
 						/* The typewriter cursor effect */
@@ -123,7 +123,7 @@
 				</div>
 				<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; margin-left: 30px;">
 					<h3 style="font-size:12px;margin-top: 30px;"> - Currently pursuing BTech in Computer Science.</h3>
-					<h3 style="font-size:12px;"> - I am currently working on Software, BlockChain, Web and Automation.</h3>
+					<h3 style="font-size:12px;"> - I am currently working on Software Development, BlockChain, WebDev and Automation.</h3>
 				</div>
 
 				<h3 style="font-size:12px; margin-left:30px; color: lightgreen;  margin-top: 20px"> TOP PROJECTS: </h3>
@@ -146,10 +146,10 @@
 					<div style="margin-left:30px; width: 35%; height: 100%;">
 						<h5 style="text-align: center">Contact me: </h5>
 						<div style=" display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-							<a href=""><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/gmail.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
-							<a href=""><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/linkedin.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
-							<a href=""><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/twitter.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
-							<a href="https://discord.gg/7BJNJFeW"><img src="https://raw.githubusercontent.com/Rishi-Sharma2002/Rishi-Sharma2002/main/icons/discord.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href=""><img src="icons/gmail.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href=""><img src="icons/linkedin.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href=""><img src="icons/twitter.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
+							<a href="https://discord.gg/7BJNJFeW"><img src="icons/discord.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
 						</div>
 					</div>
 				</div>
@@ -161,57 +161,5 @@
 
 
 	</foreignObject>
-
-	<!-- <script>
-
-		async function getData(){
-			let res = await fetch('https://api.github.com/users/Rishi-Sharma2002/repos')
-			let data = res.json();
-			return data;
-		}
-
-		async function getLanguages(){
-			let promise_data = await getData();
-			let json_language;
-			json_language = {
-				"Python":0,
-				"C++":0,
-				"JavaScript":0,
-				"C":0,
-			};
-			let size = [];
-			for (let i in promise_data){
-				size.push(i);
-			}
-			let json_numbers = [0, 1, 2, 3]
-			for (let i in json_language){
-				for (let j of size){
-					if (promise_data[j]['language'] === i){
-						json_language[i]++;
-					}
-				}
-			}
-			return json_language;
-		}
-		async function main(){
-			let languages = await getLanguages();
-			document.getElementsByClassName("lang")[1].innerHTML = "Python : " +languages['Python'];
-			document.getElementsByClassName("lang")[3].innerHTML = "C++	: " + languages['C++'];
-			document.getElementsByClassName("lang")[2].innerHTML = "JavaScript : " + languages['JavaScript'];
-			document.getElementsByClassName("lang")[0].innerHTML = "C (language): " + languages['C'];
-
-
-			var canvas = document.getElementById('myCanvas');
-			var ctx = canvas.getContext("2d");
-
-			ctx.fillStyle = "#50d4d4";
-			ctx.fillRect(20, 200 , 50,  languages['C']*(-20));
-			ctx.fillRect(85, 200 , 50, languages['Python'] *(-10));
-			ctx.fillRect(150, 200 , 50, languages['JavaScript']*(-20));
-			ctx.fillRect(220, 200 , 50, languages['C++']*(-20));
-
-		}
-		main(); -->
-	<!-- </script> -->
 </svg>
 
