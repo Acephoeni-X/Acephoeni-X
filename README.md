@@ -7,7 +7,7 @@
 
 </div>
 
-### Languages Known: 
+### Languages Known:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
@@ -24,14 +24,16 @@
 
 ### GITHUB STATS:
 <br>
+<div align="center">
 <img align="middle" alt="Rishi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rishi-Sharma2002&&show_icons=true&theme=dark" width="50%" />
 
 <img align="center" alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Sharma2002&layout=compact&theme=dark" width="50%"/>
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Sharma2002&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+</div>
+<div align="center">
 ### Contact ME :
 <a href="https://www.linkedin.com/in/-rishi-sharma/"><img src="icons/linkedin.png" alt="Linkedin" width="50" height="50"></a>
 <a href="https://github.com/Rishi-Sharma2002"><img src="icons/github.png" alt="GitHub" width="50" height="50"></a>
 <a href="https://twitter.com/RishiSharma2002"><img src="icons/twitter.png" alt="Twitter" width="50" height="50"></a>
-
+</div>
