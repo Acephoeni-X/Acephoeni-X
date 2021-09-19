@@ -31,27 +31,20 @@
 
 				h1 {
 					font-size: 25px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-				}
-
-				h1 {
-					font-size: 25px;
 					text-shadow: 0 1px 0 #efefef;
+					letter-spacing: 5px;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 				.typewriter h1{
 
 						color: #fff;
 						font-family: monospace;
-						overflow: hidden; /* Ensures the content is not revealed until the animation */
-						border-right: .15em solid orange; /* The typwriter cursor */
-						white-space: nowrap; /* Keeps the content on a single line */
-						<!-- margin: 0 auto; /* Gives that scrolling effect as the typing happens */ -->
+						overflow: hidden;
+						border-right: .15em solid orange;
+						white-space: nowrap;
 						margin-top:30px;
 						margin-left:200px;
-						letter-spacing: .15em; /* Adjust as needed */
+						letter-spacing: .15em;
 						font-size:1.2rem;
 						animation:
 							typing 3.5s steps(30, end),
@@ -69,57 +62,10 @@
 						from, to { border-color: transparent }
 						50% { border-color: orange }
 						}
-
-						.innerDivs1{
-							position:absolute;
-							margin-right: 550px;
-							margin-top: 120px;
-
-						}
-						.class{
-							margin-right: 20px;
-						}
-						.lang-box{
-							margin-top: 32px;
-							<!-- margin-right: 550px; -->
-							font-size:17px;
-
-						}
-						canvas{
-							background-color: rgb(70, 69, 69);
-							position: absolute;
-							margin-top: 145px;
-							margin-left: 400px;
-							border: 1px solid #50d4d4;
-						}
-						.chart-C{
-							position: absolute;
-							margin-top: 350px;
-							margin-left: 190px;
-							font-size: 13px;
-						}
-						.chart-Python{
-							position: absolute;
-							margin-top: 350px;
-							margin-left: 320px;
-							font-size: 13px;
-						}
-						.chart-Js{
-							position: absolute;
-							margin-top: 350px;
-							margin-left: 450px;
-							font-size: 13px;
-						}
-						.chart-cpp{
-							position: absolute;
-							margin-top: 350px;
-							margin-left: 600px;
-							font-size: 13px;
-						}
 			</style>
 			<div class="container">
 				<div class="typewriter">
-					<h1 class="typewriter">Hello, This is <span style="color: red"> Rishi Sharma </span> 👋🏻</h1>
+					<h1 class="typewriter">Hello, This is <span style="color: #ff4245"> Rishi Sharma </span> 👋🏻</h1>
 				</div>
 				<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; margin-left: 30px;">
 					<h3 style="font-size:12px;margin-top: 30px;"> - Currently pursuing BTech in Computer Science.</h3>
@@ -143,7 +89,7 @@
 							<h5 style="color: black">Mailinator Hackathon</h5>
 						</div>
 					</div>
-					<div style="margin-left:30px; width: 35%; height: 100%;">
+					<!-- <div style="margin-left:30px; width: 35%; height: 100%;">
 						<h5 style="text-align: center">Contact me: </h5>
 						<div style=" display: flex; justify-content: space-evenly; flex-wrap: wrap;">
 							<a href=""><img src="icons/gmail.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
@@ -151,15 +97,10 @@
 							<a href=""><img src="icons/twitter.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
 							<a href="https://discord.gg/7BJNJFeW"><img src="icons/discord.png" style="height:50px; width: 50px;cursor: pointer;"></img></a>
 						</div>
-					</div>
+					</div> -->
 				</div>
-
-
-
 			</div>
 		</div>
-
-
 	</foreignObject>
 </svg>
 

@@ -4,8 +4,8 @@ class generateGraph():
     __url = "https://api.github.com/users/Rishi-Sharma2002/repos"
 
     def getData(self, url = __url):
-        print(urllib.request.getproxies())
-        data = requests.get(url, proxies=urllib.request.getproxies()).json()
+        # print(urllib.request.getproxies())
+        data = requests.get(url).json()
         return data
 
     def getContributors(self):
