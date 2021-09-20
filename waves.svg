@@ -17,9 +17,6 @@
   </g>
 
   <style>
-  body{
-      background-color:black;
-  }
     .waves {
       position: absolute;
       bottom: 0;
