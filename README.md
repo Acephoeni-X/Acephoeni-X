@@ -4,7 +4,7 @@
 		<img src="header.svg" >
 	</a>
 	<br>
-
+<img src="waves.svg" >
 </div>
 
 ### Languages Known:
