@@ -4,7 +4,6 @@
 		<img src="header.svg" >
 	</a>
 	<br>
-<img src="waves.svg" >
 </div>
 
 ### Languages Known:
@@ -37,3 +36,4 @@
 <a href="https://github.com/Rishi-Sharma2002"><img src="icons/github.png" alt="GitHub" width="50" height="50"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/RishiSharma2002"><img src="icons/twitter.png" alt="Twitter" width="50" height="50"></a>
 </div>
+<img src="waves.svg" >
