@@ -49,7 +49,7 @@
 ## 🌐 Socials:
 
 <div align="center">
-<a href="mailto:sharma.rishix02@gmail.com"><img src="icons/gmail.png" alt="Twitter" width="50" height="50"></a>
+<a href="mailto:sharma.rishix02@gmail.com"><img src="icons/gmail.png" alt="gmail" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/-rishi-sharma/"><img src="icons/linkedin.png" alt="Linkedin" width="50" height="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/Rishi-Sharma2002"><img src="icons/github.png" alt="GitHub" width="50" height="50"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/RishiSharma2002"><img src="icons/twitter.png" alt="Twitter" width="50" height="50"></a>
