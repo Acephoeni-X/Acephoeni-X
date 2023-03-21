@@ -10,10 +10,6 @@
 
 🌱 I’m currently learning everything<br>🎓 B-Tech Graduated in Computer Science -->
 
-<!-- ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-rishi-sharma) -->
-
 # 💻 My Tech Stack:
 
 #### Programming Languages
@@ -34,19 +30,29 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=UnspecifiedOne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UnspecifiedOne&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UnspecifiedOne&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
+
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=UnspecifiedOne&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-</p>
-### 😂 Random Dev Meme
+</div>
 
-<img src="meme.svg" width="512px"/>
+## 🌐 Socials:
+
+<div align="center">
+<a href="mailto:sharma.rishix02@gmail.com"><img src="icons/gmail.png" alt="Twitter" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/-rishi-sharma/"><img src="icons/linkedin.png" alt="Linkedin" width="50" height="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/Rishi-Sharma2002"><img src="icons/github.png" alt="GitHub" width="50" height="50"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/RishiSharma2002"><img src="icons/twitter.png" alt="Twitter" width="50" height="50"></a>
+</div>
 
 <img src="waves.svg" >
