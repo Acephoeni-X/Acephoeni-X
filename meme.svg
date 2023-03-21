@@ -1,0 +1,20 @@
+<svg width="500" height="250"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+    <image
+      width="500"
+      height="250"
+      clip-path="url(#circleView)"
+      id="meme"
+    />
+    <script type="text/javascript">
+    async function getMeme(){
+      let data = await (await fetch("https://meme-api.com/gimme")).json();
+      document.getElementById("meme").setAttribute("href", data.url)
+    }
+    async function main(){
+      await getMeme();
+    }
+    main()
+    </script>
+ </svg>
