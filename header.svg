@@ -73,7 +73,7 @@
 
 				<h3 style="font-size:12px; margin-left:30px; color: lightgreen;  margin-top: 20px"> TOP PROJECTS: </h3>
 
-				<div style="display:flex;">
+				<div style="display:;">
 					<div style="margin-left:30px; width: 55%; display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-between">
 						<div style="background-color: silver; height: 80px; width: 200px; border-radius:10px; border:1px solid red; cursor: pointer;">
 							<h5 style="color: black">Acetor</h5>
